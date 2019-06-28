@@ -3,20 +3,17 @@ layout: content
 title: About
 permalink: /about/
 ---
-Hi, I'm Johnny and I live in the Shire. Thanks for visiting my site.
+Hi, I'm David and I live in the Hong Kong. Thanks for visiting!
 
-I program and write about software development when I have the time. More information can be found through <a href="https://www.linkedin.com/" data-network="LinkedIn" data-proofer-ignore>LinkedIn.</a>
-
-----
-
-## The Website
-This site was made on an [Apple MBP](https://www.apple.com/) powered by [Jekyll](https://jekyllrb.com) on [Github Pages](https://pages.github.com).
-I'd love to hear your feedback on this site and my work.
+I do Growth at [SCMP]("https://scmp.com").I program and write about software development when I have the time.
 
 ----
 
-## Etcetera
 
-- [Instagram](https://www.instagram.com/) for 📸
-- [Facebook](https://www.facebook.com/) for 🕺
+----
+
+## Follow me
+
+- [Instagram](https://www.instagram.com/dadadilada) for 📸
+- [Twitter](https://www.teitter.com/davidng_hk) for Fun News
 
