@@ -4,15 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
-Show off your projects here!
-- [Awesome Project]()
-- [Cool Project]()
-- [New Project]()
-- [Old Project]()
-- [Hard Project]()
-- [School Project]()
-- [Project's Project]()
+I wrote some tools for developers, and some experimental work:
+- [Skypad](https://github.com/skygear-demo/skypad)
+- [OpenGraph Image Generater](https://david90.github.io/OGImageMaker/) for Facebook Share
 
 # Talks
 - How to ????
+
+[comment]: # (XD)
 

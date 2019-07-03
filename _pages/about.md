@@ -15,5 +15,5 @@ I do growth at [SCMP]("https://scmp.com"). I program and write about software de
 ## Follow me
 
 - [Instagram](https://www.instagram.com/dadadilada) for 📸
-- [Twitter](https://www.teitter.com/davidng_hk) for Fun News
+- [Twitter](https://www.twitter.com/davidng_hk) for 💡
 

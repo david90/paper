@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Hello World (again)"
+description: "First blog post after a while."
+date: 2019-07-03
+tags: life intro
+comments: true
+---
+
+Hello world!
+It's not my first blog.
+
+I've been writing on many platforms since Xanga.
+Then Facebook Notes, Logdown, Medium. Finally I decided to migrate to my own website.
+
+[Web site is still important](https://news.ycombinator.com/item?id=19784907).
+This domain has been online for a while, but I've been too lazy to put up all things together.Some contents are scattered around, so it's a great chance to pull them back together.
+
+
+
+Thanks for reading.
+If you are interested, you can turn on notification or subscribe my RSS feed.
