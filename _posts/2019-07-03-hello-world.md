@@ -11,7 +11,7 @@ Hello world!
 It's not my first blog.
 
 I've been writing on many platforms since Xanga.
-Then Facebook Notes, Logdown, Medium. Finally I decided to migrate to my own website.
+Then Facebook Notes, [Logdown](https://david.logdown.com), [Medium](https://medium.com/@iamdavidng). Finally I decided to migrate to my own website.
 
 [Web site is still important](https://news.ycombinator.com/item?id=19784907).
 This domain has been online for a while, but I've been too lazy to put up all things together.Some contents are scattered around, so it's a great chance to pull them back together.
