@@ -9,7 +9,7 @@ comments: true
 
 Hello world!
 
-This is not my first blog.
+This is not my first blogging place.
 
 
 I've been writing on several platforms since the Xanga era.
@@ -26,4 +26,4 @@ them back together.
 
 
 Thanks for reading.
-If you are interested, you can turn on notification or subscribe my RSS feed.
+I am writing more in the future.
