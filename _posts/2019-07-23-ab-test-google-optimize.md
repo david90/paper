@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AB Testing isn't hard - simple experiment on Google Optimize"
+title: "AB Testing on your website - create experiment via Google Optimize"
 description: ""
 date: 2019-07-23
 tags: growth experiment

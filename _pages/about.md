@@ -3,9 +3,10 @@ layout: content
 title: About
 permalink: /about/
 ---
-Hi, I'm David and I live in Hong Kong. Thanks for visiting!
+Hi.Thanks for visiting!
+I'm David and I live in Hong Kong.
 
-I do growth at [SCMP]("https://scmp.com"). I program and write about software development when I have the time.
+At currently, I am a Growth engineer at [SCMP]("https://scmp.com"). I write program and [blog](https://medium.com/@iamdavidng) about software development and the Internet when I have time.
 
 ----
 
