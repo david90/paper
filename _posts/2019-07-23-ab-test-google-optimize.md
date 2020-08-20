@@ -72,7 +72,7 @@ Here's an example below:
 <div class="email-demo-wrapper">
   <h2>Get Lastest Tech news in your inbox.</h2>
   <input type="email" />
-  <button>Subscribe Newsletter</button>
+  <button>Subscribe</button>
 </div>
 
 <style>
