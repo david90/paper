@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "A/B Testing on your website - create experiment via Google Optimize"
+title: "Performance website experiments using Google Optimize"
 description: ""
 date: 2019-07-23
-tags: growth experiment
+tags: growth experiment howto
 comments: true
 ---
 
@@ -13,7 +13,7 @@ However, what does it take to perform a meaningful A/B Test?
 
 As a growth engineer, I don't only comment on technical implementation, but also help designing the experiment.
 
-## Figuring out WHY
+## Figuring out the underlying WHY
 
 What is our goal for doing an experiment? Are we trying to achieve one of the followings?
 
@@ -21,7 +21,7 @@ What is our goal for doing an experiment? Are we trying to achieve one of the fo
 * improving engament
 * improving retention
 * improving revenue
-* improving the user expierence 
+* improving the user expierence
 
 When we start designing the A/B test, we must be able to tell the goal of our experiment. For example: "We are trying to improve the conversion rate of the buy button on the product detail page."
 
@@ -52,7 +52,7 @@ That will work for most of the time. However sometimes we will face a problem th
 
 That will require wise.
 
-Yet another framework might be "20% investment in bets and 80% implementation in low hanging fruits". And of course the ratio depends on your team's resource and current situation. 
+Yet another framework might be "20% investment in bets and 80% implementation in low hanging fruits". And of course the ratio depends on your team's resource and current situation.
 
 ## Set up a control
 
@@ -141,7 +141,7 @@ Different test will require a different technical effort to set up the test.
 Some can be done purely on the front-end UI:
 * Call-to-action message change
 * Simple page layout
-* Show hide elements 
+* Show hide elements
 
 Some will require server-side effort:
 * Cutting Infinite-scroll (to measure user engagment)
