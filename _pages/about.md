@@ -3,10 +3,12 @@ layout: content
 title: About
 permalink: /about/
 ---
-Hi.Thanks for visiting!
-I'm David and I live in Hong Kong.
+Hi, I'm David. Thanks for visiting!
+I am living in Hong Kong. I've been crafting software for web, iOS and Android for years.
 
-At currently, I am a Growth engineer at [SCMP]("https://scmp.com"). I write program and [blog](https://medium.com/@iamdavidng) about software development and the Internet when I have time.
+I used to be a Software Engineer at [Oursky](https://oursky.com), and a growth engineer at [SCMP]("https://www.scmp.com"). Recently, I've joined the Technology Innovation Team in a leading group to bring digital changes to the organization.
+
+I write program and [blog](https://medium.com/@iamdavidng) about software development and digital technologies, such as machine learning, NLP and software engineering.
 
 ----
 
