@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="./assets/paper-cover-photo.png">
   <p align="center">
   A minimalistic Jekyll Theme
   <br>
@@ -38,7 +37,7 @@ rake preview
 Then, go to your favorite brower and type in the address `http://127.0.0.1:YOUR_PORT_NUM_HERE` to preview your website.
 
 ### Customization
-To customize various details - title/description of the website, your SNS accout names, etc - edit the `_config.yml` file. 
+To customize various details - title/description of the website, your SNS accout names, etc - edit the `_config.yml` file.
 
 ### Adding posts
 ```
