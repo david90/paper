@@ -1,7 +1,33 @@
 <header class="c-page__header">
+    <style>
+
+        @keyframes bounce {
+          0% {
+            transform: translate3d(0px, 0px, 0);
+          }
+          50% {
+            transform: translate3d(0px, -4px, 0);
+          }
+          100% {
+            transform: translate3d(0px, 0px, 0);
+          }
+        }
+
+        .rocket {
+            height: 100px;
+            animation: bounce 1.5s infinite;
+            margin: 20px;
+            cursor: pointer;
+            position: relative;
+            top: 0;
+            transition: all 3s ease-in;
+        }
+
+    </style>
+  <img src="{{ "/assets/rocket.png" | prepend: site.baseurl }}" alt="rocket" class="rocket">
   <h1><code>{{ site.title}}</code></h1>
   {% if page.title == 'Home' %}
-  <h1>{{ site.description }}</h1>
+  <h2>{{ site.description }}</h2>
   {% endif %}
   <p>
     <a href="{{ "/" | prepend: site.baseurl }}">Home</a><span
