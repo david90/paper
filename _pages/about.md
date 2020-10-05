@@ -3,8 +3,11 @@ layout: content
 title: About
 permalink: /about/
 ---
-Hi, I'm David Ng. Thanks for visiting!
-I am living in Hong Kong. I've been crafting software for web, iOS and Android for years.
+
+Thanks for visiting!
+
+Hi, I'm David Ng.
+I live in Hong Kong. I've been crafting software for web, iOS and Android for years.
 
 I used to be a Software Engineer at [Oursky](https://oursky.com), and a growth engineer at [SCMP]("https://www.scmp.com"). Recently, I've joined the Technology Innovation Team in a leading group to bring digital changes to the organization.
 
