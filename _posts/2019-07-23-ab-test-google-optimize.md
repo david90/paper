@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Performance website experiments using Google Optimize"
+title: "Website conversion experiments with Google Optimize"
 description: ""
 date: 2019-07-23
 tags: growth experiment howto
@@ -15,17 +15,17 @@ As a growth engineer, I don't only comment on technical implementation, but also
 
 ## Figuring out the underlying WHY
 
-What is our goal for doing an experiment? Are we trying to achieve one of the followings?
+What is our goal for doing an experiment?
 
-* improving the Click through rate
-* improving engament
-* improving retention
-* improving revenue
-* improving the user expierence
+* Improving Click through rate
+* Improving engament
+* Improving retention
+* Improving revenue
+* Improving user expierence
 
-When we start designing the A/B test, we must be able to tell the goal of our experiment. For example: "We are trying to improve the conversion rate of the buy button on the product detail page."
+When we start designing A/B tests, we must be able to tell the goal of our experiment. For example: "We are trying to improve the conversion rate of the buy button on the product detail page."
 
-That will guide us to design the experiment to solve the right problem.
+That will guide us to design the right experiment to solve the right problem.
 
 Instead of coming up ideas like "let's try to use a blue button instead of red", we will be able to think of hypotheses that has higher possibilities to "improve the conversion rate of the buy button on the product detail page."
 
@@ -36,7 +36,8 @@ For example (but not limited to):
 
 and the list goes on.
 
-I suggest the Product Owner to pin the problem and run a creative session, there  might be ideas that surprise you! (One bonus is that everyone in the team feels they are part of the product as well!)
+I suggest the Product Owner to pin the problem and run a creative session, there might be ideas that surprise you!
+One bonus is that everyone in the team feels they are part of the product as well! We actually ran a few ideas brainstorming sessions, which turns out great.
 
 ## Figuring out the priority
 
