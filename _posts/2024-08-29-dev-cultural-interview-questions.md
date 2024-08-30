@@ -55,14 +55,14 @@ However, by asking and answering these questions, both the candidate and hiring 
 
 ## What to Expect
 
-Don't expect to find model answers for these questions. 
+**Don't** expect model answers from these questions. 
 
 The questions themselves shouldn't have predefined responses. 
 
 Instead, focus on the follow-up questions that interviewers might ask to learn more about your values and approach to work.
 
 For example, if asked about a time you had to deliver a project under a tight deadline, 
-the interviewer might follow up with **"How did you find that experience?"** or **"Is there a better way you think you could have approached the situation?"**
+the interviewer might follow up with *"How did you find that experience?"* or *"Is there a better way you think you could have approached the situation?"*
 
 These follow-up questions allow the interviewer to understand your priorities and problem-solving skills.
 
@@ -82,7 +82,7 @@ Of course, the specific red flags to watch for will depend on your team's cultur
 
 ## Ask Questions Too
 
-Don't treat the interview as a one-way conversation. 
+Never treat the interview as a one-way conversation. 
 It's a communication process. 
 
 You deserve to know more about the company, team, and people you might potentially work with.
@@ -94,6 +94,7 @@ By observing the format, attitude, and questions asked, you can gain insights in
 
 Interviewing can be challenging for both sides. 
 It's about understanding each other within a limited amount of time.
+
 Questions and answers are tools to exchange ideas and values, helping you find your future working partners. 
 
 Good luck to those looking for jobs or candidates.
