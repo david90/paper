@@ -7,14 +7,16 @@ tags: dev interview hiring
 comments: true
 ---
 
-I've been hired and invited to developer interview processes. 
+I've been going through interviews myself and invited to developer interview processes. 
 
-Some companies prioritize technical skills most, while others look for cultural-fit candidates. 
+Some companies prioritise technical skills most, while others look for cultural-fit candidates. 
 
-You can often tell by how they prioritize their cultural interviews and what they ask.
+You can often tell by how they prioritise their cultural interviews and what they ask.
 
 Here, I'll share some common interview questions. 
+
 I won't discuss how to answer them, as you can use AI to generate the best responses. 
+
 However, by asking and answering these questions, both the candidate and hiring manager can learn more about each other.
 
 ## Questions
@@ -54,11 +56,13 @@ However, by asking and answering these questions, both the candidate and hiring 
 ## What to Expect
 
 Don't expect to find model answers for these questions. 
+
 The questions themselves shouldn't have predefined responses. 
+
 Instead, focus on the follow-up questions that interviewers might ask to learn more about your values and approach to work.
 
 For example, if asked about a time you had to deliver a project under a tight deadline, 
-the interviewer might follow up with "How did you find that experience?" or "Is there a better way you think you could have approached the situation?" 
+the interviewer might follow up with **"How did you find that experience?"** or **"Is there a better way you think you could have approached the situation?"**
 
 These follow-up questions allow the interviewer to understand your priorities and problem-solving skills.
 
@@ -71,8 +75,8 @@ While it's okay to have different preferences (like preferring basketball over f
 * Poor communication skills
 * Tendency to hide problems
 * Lack of teamwork
-* Ignoring suggestions
-* Blaming others
+* Ignoring feedback
+* Blaming others in first place when challenge happens
 
 Of course, the specific red flags to watch for will depend on your team's culture.
 
@@ -80,6 +84,7 @@ Of course, the specific red flags to watch for will depend on your team's cultur
 
 Don't treat the interview as a one-way conversation. 
 It's a communication process. 
+
 You deserve to know more about the company, team, and people you might potentially work with.
 Don't hesitate to ask questions during the "Do you have any questions?" session.
 
