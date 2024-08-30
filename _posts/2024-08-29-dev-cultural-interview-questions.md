@@ -18,37 +18,38 @@ I won't discuss how to answer them, as you can use AI to generate the best respo
 However, by asking and answering these questions, both the candidate and hiring manager can learn more about each other.
 
 ## Questions
+
 ### Personal
 
-    * Can you describe the environment where you do your best work?
-    * What does work-life balance mean to you?
-    * What are you passionate about?
-    * Do you have any role models? Why do they inspire you?
+* Can you describe the environment where you do your best work?
+* What does work-life balance mean to you?
+* What are you passionate about?
+* Do you have any role models? Why do they inspire you?
 
 ### Feedback
 
-    * What format do you prefer for receiving feedback?
-    * How would you address feedback if someone was underperforming, such as a junior developer?
+* What format do you prefer for receiving feedback?
+* How would you address feedback if someone was underperforming, such as a junior developer?
 
 ### Workplace
 
-    * Describe a time you had to deliver a project under a very tight deadline.
-    * Have you ever disagreed with your team on a solution to a problem? If so, how did you resolve it?
-    * Give me an example of a tough conversation you've had at work.
-    * Describe a situation where you believe you didn't handle the situation well and could have done better.
+* Describe a time you had to deliver a project under a very tight deadline.
+* Have you ever disagreed with your team on a solution to a problem? If so, how did you resolve it?
+* Give me an example of a tough conversation you've had at work.
+* Describe a situation where you believe you didn't handle the situation well and could have done better.
 
 ### Growth/Development
 
-    * How do you learn new technologies?
-    * What do you envision yourself doing in five years?
-    * Is there a specific role or career path you aspire to in the future?
+* How do you learn new technologies?
+* What do you envision yourself doing in five years?
+* Is there a specific role or career path you aspire to in the future?
 
 ### Others
 
-    * Why did you choose to apply to this company?
-    * What excites you about the company, industry, or opportunity?
-    * What is your impression of our company's culture?
-    * What does a positive company culture look like to you?
+* Why did you choose to apply to this company?
+* What excites you about the company, industry, or opportunity?
+* What is your impression of our company's culture?
+* What does a positive company culture look like to you?
 
 ## What to Expect
 
