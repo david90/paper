@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Protect your attentions"
+title: "Protect your attention"
 description: ""
 date: 2025-08-06
 tags: life
@@ -23,13 +23,22 @@ Try to do these:
 * Save energy, even it costs sometimes. (example: taking taxi)
 * Prioritise important tasks at the time that you have most energy.
 
-### Minimal
+### Be minimal
 
+Be selective on what you do.
+
+### Be prepared
 Plan before act.
 Pencil down sub-steps.
+
+That saves your on-the-fly computational power.
 
 ### Start small, let the momentum builds
 
 It's always easier to come back then to start a new task.
 
-### Don't try to "Focus" many things at a time
+### Don't try to "focus" many things at a time
+
+Finishing a task releases dopamine. Dragging a task for too long creates stress, you want to avoid this.
+
+
