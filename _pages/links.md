@@ -10,3 +10,8 @@ A place for interesting articles and news around the world.
 
 #### May
 [How to become a more empathetic listener](https://hbr.org/2024/04/how-to-become-a-more-empathetic-listener)
+
+
+#### Aug
+
+[Intriguing Stories in Computer Science](https://inventwithpython.com/blog/intriguing-stories-in-cs.html)
